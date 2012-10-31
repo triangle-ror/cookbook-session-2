@@ -1,16 +1,16 @@
-# Cookbook - Session 1
+# Cookbook - Session 2
 
-This is the starting point for the first Rails session of the Triangle Ruby on Rails starter course. Throughout the course we will be building an application in inspired by Curt Hibb's original [Rolling with Ruby on Rails](http://oreilly.com/ruby/archive/rails.html) tutorial.
+This is the starting point for the second Rails session of the Triangle Ruby on Rails starter course. Throughout the course we will be building an application in inspired by Curt Hibb's original [Rolling with Ruby on Rails](http://oreilly.com/ruby/archive/rails.html) tutorial.
 
 ## Getting Started
 
 Clone the project:
 
-    git clone https://github.com/triangle-ror/cookbook-session-1.git
+    git clone https://github.com/triangle-ror/cookbook-session-2.git
 
 Change to the cookbook directory:
 
-    cd cookbook-session-1
+    cd cookbook-session-2
 
 Install the dependencies:
 
